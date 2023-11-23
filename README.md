@@ -1,4 +1,4 @@
-# whisper_llama_api
+# Whisper Llama API
 # Flask File Processing API
 
 This is a simple Flask application that provides an API for uploading and processing `.wav` files.
